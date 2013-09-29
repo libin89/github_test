@@ -1,0 +1,8 @@
+mkdir helloworld
+cd helloworld
+git init
+touch README.md
+git add README.md
+git commit -m 'first commit
+git remote add origin https://github.com/libin89/helloworld
+git push -u origin master
